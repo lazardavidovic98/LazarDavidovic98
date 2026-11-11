@@ -31,8 +31,6 @@ You can contact me on LinkedIn: [Lazar Davidović](https://www.linkedin.com/in/l
   <br>
   <a href="https://github.com/LazarDavidovic98/timer-app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/timer-app-dark.png"><img src="assets/projects/timer-app-light.png" width="350" alt="Timekeeper: timer, stopwatch and alarm desktop app in C++ and Qt6"></picture></a>
   <a href="https://github.com/LazarDavidovic98/bank-database"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/bank-database-dark.png"><img src="assets/projects/bank-database-light.png" width="350" alt="Ledger ETL: bank transaction ETL pipeline in Python and SQL Server"></picture></a>
-  <br>
-  <a href="https://github.com/LazarDavidovic98/matematika-app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/matematika-app-dark.png"><img src="assets/projects/matematika-app-light.png" width="350" alt="Matematika: web and mobile app for learning math and booking classes"></picture></a>
 </div>
 
 ## Languages & tools
