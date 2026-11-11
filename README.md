@@ -27,7 +27,7 @@ You can contact me on LinkedIn: [Lazar Davidović](https://www.linkedin.com/in/l
   <a href="https://github.com/LazarDavidovic98/internet-architecture-project"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/internet-architecture-project-dark.png"><img src="assets/projects/internet-architecture-project-light.png" width="410" alt="Autonomous Systems: Internet-like network topology in Cisco Packet Tracer"></picture></a>
   <a href="https://github.com/LazarDavidovic98/hardware-shop-app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/hardware-shop-app-dark.png"><img src="assets/projects/hardware-shop-app-light.png" width="410" alt="Silicon Store: full-stack computer hardware shop in TypeScript"></picture></a>
   <br>
-  <a href="https://github.com/LazarDavidovic98/timer-app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/timer-app-dark.png"><img src="assets/projects/timer-app-light.png" width="410" alt="Timekeeper: timer, stopwatch and alarm desktop app in C++ and Qt6"></picture></a>
+  <a href="https://github.com/LazarDavidovic98/rbs2024-2025"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/rbs2024-2025-dark.png"><img src="assets/projects/rbs2024-2025-light.png" width="410" alt="Secure Bookshop: vulnerable Spring web shop hardened against SQL injection, XSS and CSRF, with RBAC and audit logging"></picture></a>
   <a href="https://github.com/LazarDavidovic98/bank-database"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/bank-database-dark.png"><img src="assets/projects/bank-database-light.png" width="410" alt="Ledger ETL: bank transaction ETL pipeline in Python and SQL Server"></picture></a>
 </div>
 
