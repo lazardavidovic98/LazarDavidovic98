@@ -2,9 +2,9 @@
 
 ![Lazar's GitHub](assets/lazars-github.png)
 
-[![Lazar's GitHub](https://img.shields.io/badge/Lazar-GitHub-3F6B57?style=for-the-badge&labelColor=22352C)](https://github.com/LazarDavidovic98)
-[![Lazar's LinkedIn](https://img.shields.io/badge/Lazar-LinkedIn-5D4E7E?style=for-the-badge&labelColor=2C2540)](https://www.linkedin.com/in/lazar-davidovi%C4%87-831887233/).
-[![Lazar's Gallery](https://img.shields.io/badge/Lazar-Gallery-7A6A9E?style=for-the-badge&labelColor=2C2540)](GALLERY.md)
+[![Lazar's GitHub](https://img.shields.io/badge/Lazar-GitHub-3F6B57?style=for-the-badge&labelColor=808080&color=3F6B57)](https://github.com/LazarDavidovic98)
+[![Lazar's LinkedIn](https://img.shields.io/badge/Lazar-LinkedIn-5D4E7E?style=for-the-badge&labelColor=808080&color=5D4E7E)](https://www.linkedin.com/in/lazar-davidovi%C4%87-831887233/)
+[![Lazar's Gallery](https://img.shields.io/badge/Lazar-Gallery-7A6A9E?style=for-the-badge&labelColor=808080&color=7A6A9E)](GALLERY.md)
 
 
 
