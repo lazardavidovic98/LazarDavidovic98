@@ -2,10 +2,9 @@
 
 ![Lazar's GitHub](assets/lazars-github.png)
 
-[![Lazar's GitHub](https://img.shields.io/badge/Lazar-GitHub-3F6B57?style=for-the-badge&labelColor=808080&color=3F6B57)](https://github.com/LazarDavidovic98)
-[![Lazar's LinkedIn](https://img.shields.io/badge/Lazar-LinkedIn-5D4E7E?style=for-the-badge&labelColor=808080&color=5D4E7E)](https://www.linkedin.com/in/lazar-davidovi%C4%87-831887233/)
-[![Lazar's Gallery](https://img.shields.io/badge/Lazar-Gallery-7A6A9E?style=for-the-badge&labelColor=808080&color=7A6A9E)](GALLERY.md)
-
+[![Lazar's GitHub](https://img.shields.io/badge/Lazar-GitHub-3F6B57?style=for-the-badge&labelColor=696969)](https://github.com/LazarDavidovic98)
+[![Lazar's LinkedIn](https://img.shields.io/badge/Lazar-LinkedIn-5D4E7E?style=for-the-badge&labelColor=696969)](https://www.linkedin.com/in/lazar-davidovi%C4%87-831887233/)
+[![Lazar's Gallery](https://img.shields.io/badge/Lazar-Gallery-5D4E7E?style=for-the-badge&labelColor=696969)](GALLERY.md)
 
 
 <img src="assets/github.png" alt="C++ and Python talking to each other, next to AI, ML and deep learning" width="800"/>
