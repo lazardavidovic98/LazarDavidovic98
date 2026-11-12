@@ -28,7 +28,7 @@ You can contact me on LinkedIn: [**Lazar Davidović**](https://www.linkedin.com/
 ## Some projects
 
 <div align="center">
-  <a href="https://github.com/LazarDavidovic98/math-app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/math-app-dark.png"><img src="assets/projects/math-app-light.png" width="410" alt="LD Math: math platform from primary school to university, with entrance exams and coding courses"></picture></a>
+  <a href="https://github.com/LazarDavidovic98/math-prog-app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/math-prog-app-dark.png"><img src="assets/projects/math-prog-app-light.png" width="410" alt="math-prog-app (LD Math): math and programming platform, from school math and entrance exams to C++, HFT and robotics courses"></picture></a>
   <a href="https://github.com/LazarDavidovic98/social-network-analysis"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/social-network-analysis-dark.png"><img src="assets/projects/social-network-analysis-light.png" width="410" alt="Co-author Graph: scientific collaboration network analysis"></picture></a>
   
   <a href="https://github.com/LazarDavidovic98/internet-architecture-project"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projects/internet-architecture-project-dark.png"><img src="assets/projects/internet-architecture-project-light.png" width="410" alt="Autonomous Systems: Internet-like network topology in Cisco Packet Tracer"></picture></a>
